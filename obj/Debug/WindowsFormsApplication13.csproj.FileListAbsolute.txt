@@ -1,0 +1,20 @@
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication13\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.exe.config
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication13\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.exe
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication13\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.pdb
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.exe
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.pdb
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\WindowsFormsApplication13\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.exe.config
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\WindowsFormsApplication13\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.exe
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\WindowsFormsApplication13\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.pdb
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.csproj.AssemblyReference.cache
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.csproj.SuggestedBindingRedirects.cache
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.Form1.resources
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.Properties.Resources.resources
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.csproj.GenerateResource.cache
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.csproj.CoreCompileInputs.cache
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.exe
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.pdb
